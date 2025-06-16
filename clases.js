@@ -4,10 +4,5 @@ export class Sumas{
     }
     SumaDeTresNumeros(a, b, c) {
         return a + b + c;
-    }
-}
-export class Restas{
-    RestaDousNumeros(a, b) {
-        return a - b;
     }   
 }
