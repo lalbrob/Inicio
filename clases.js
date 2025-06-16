@@ -1,9 +1,3 @@
-
-
-
-
-
-
 export class Sumas{
     SumaDousNumeros(a, b) {
         return a + b;
